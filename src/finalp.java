@@ -24,4 +24,3 @@ public static boolean askTraining(Scanner input) {
             System.out.println("Error: enter y, Y, n, or N.");
         }
     }
-    //test for a video 
